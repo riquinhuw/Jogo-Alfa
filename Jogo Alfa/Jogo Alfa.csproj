@@ -61,6 +61,7 @@
     <Compile Include="Capitulo0.cs" />
     <Compile Include="Capitulo1.cs" />
     <Compile Include="CombateTeste.cs" />
+    <Compile Include="Monstro.cs" />
     <Compile Include="Protagonista.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -24,7 +24,7 @@ namespace Jogo_Alfa
         public int dinheiro = 0; // quem é vc? lek? tu acha que é o ricão? seu burguês safado
         public string fala; // o que o joador responde
         
-        public Protagonista(string nome,int progresso, int x, int y, bool missao1,int karma, int atrocidade, int santidade, int hp,int mana, int defesa,int dinheiro,string fala)
+        public Protagonista(string nome,int progresso, int x, int y, bool missao1,int karma, int atrocidade, int santidade, int hp,int mana, int defesa,int dinheiro,string fala,int dano)
         {
             this.nome = nome;
             this.progresso = progresso;

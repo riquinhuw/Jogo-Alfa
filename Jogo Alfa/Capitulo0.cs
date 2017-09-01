@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Jogo_Alfa
 {
-    class Capitulo0
+    public class Capitulo0
     {
         
         public static void Comeco()

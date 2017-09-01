@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Jogo_Alfa
 {
-    class Capitulo1
+    public class Capitulo1
     {
 
         public static void Cidade()
@@ -51,6 +51,10 @@ namespace Jogo_Alfa
                 loopingCidade = false;
             }
 
+            Console.WriteLine("NO MEIO DO CAMINHO VOCE ENCONTRA UM DOGGO SE PREPARE!!!");
+            Console.WriteLine("precione qualquer tecla para continuar...");
+            Console.ReadKey();
+            CombateTeste.LutaInicio("Cachorro", 5, 6, 0, 2, 1, 0);
 
         }
 
